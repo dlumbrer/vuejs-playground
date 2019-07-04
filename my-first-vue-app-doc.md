@@ -21,3 +21,5 @@ Dependencies to use Bulma as sass:
 ```
 npm install node-sass sass-loader style-loader --save-dev
 ```
+
+Axios to do HTTP petitions
